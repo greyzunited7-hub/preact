@@ -1,3 +1,4 @@
+sivia adam garcia dominick garcia lj garcia
 # Contributing
 
 This document is intended for developers interest in making contributions to Preact and document our internal processes like releasing a new version.
